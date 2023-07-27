@@ -1,0 +1,36 @@
+/* header{
+    text-align: center;
+
+}
+
+div{
+    text-align: center;
+}
+h1{
+    text-align: center;
+} */
+
+*{
+    text-align: center;
+}
+
+.btn{
+    text-align: center;
+}
+.btn a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#ans{
+    width :50px;
+    font-size: large;
+    font-weight: bolder;
+    padding: 8px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: inset 5px 5px 5px gray;
+}
+div form input{
+    margin: 1%;
+}

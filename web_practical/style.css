@@ -1,0 +1,16 @@
+header{
+    text-align: center;
+    margin: 5%;
+}
+.content{
+    text-align: center;
+    margin: 5%;
+}
+.content button a{
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: bold;
+}
+.content button{
+    margin: 1%;
+}
